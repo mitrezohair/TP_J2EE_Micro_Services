@@ -1,7 +1,13 @@
 # TP_J2EE_Micro_Services
-Première partie : (Customer-Service, Inventory-Service, Spring Cloud Gateway, Eureka Discovery) - - Deuxième Partie : Billing Service avec Open Feign Rest Client- Troisième Partie :      Créer un Client Angular, 
+- Première partie : (Customer-Service, Inventory-Service, Spring Cloud Gateway, Eureka Discovery) - 
+- Deuxième Partie : Billing Service avec Open Feign Rest Client
+- Troisième Partie :      Créer un Client Angular, 
+
 Créer une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
+
 Travail à faire :
+
+
 1.Créer le micro-service customer-service qui permet de gérer les client
 
 ![Service_Customer_Service](https://user-images.githubusercontent.com/74791123/206469138-e046e9cd-7ca8-4374-a34d-26f2251ef9a7.PNG)
