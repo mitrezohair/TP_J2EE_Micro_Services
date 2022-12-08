@@ -35,18 +35,22 @@ Travail à faire :
 ![Spring_Eureka](https://user-images.githubusercontent.com/74791123/206470101-48dd7129-50dc-4be3-ad36-c8fd0d331e46.PNG)
 
 5. Faire une configuration dynamique des routes de la gateway
+
         ==>Extrait de code qui montre la Configuration dynamique
         
-        ![Gateway_Dynamic](https://user-images.githubusercontent.com/74791123/206475672-b1dc04f3-c51b-4a3d-a82e-ad4d1446d628.PNG)
+![Gateway_Dynamic](https://user-images.githubusercontent.com/74791123/206479030-7529e3a9-7cfe-46a2-bdab-6e579f5e8975.PNG)
+
 
         ==>Capture d'ecran qui montre l'execution de la Gateway Dynamiquement (voir URL)
+        
                                         **** Inventory Service ****
                                         
-        ![Inventory_Dynamique_Gateway](https://user-images.githubusercontent.com/74791123/206476469-08c751ca-7d03-46f8-9a9b-ffc589c85d80.PNG)
+![Inventory_Dynamique_Gateway](https://user-images.githubusercontent.com/74791123/206479091-6b02e8d3-0e02-4387-b9be-de5b57165566.PNG)
 
                                         **** Customers Service ****
                                         
-        ![Customers_Dynamique_Gateway](https://user-images.githubusercontent.com/74791123/206477053-a08feaab-4e98-433e-8a90-f665a3b3320f.PNG)
+![Customers_Dynamique_Gateway](https://user-images.githubusercontent.com/74791123/206479204-98c98886-6538-4c6a-8b5e-f759e21ceb87.PNG)
+
 
 6. Créer le service de facturation Billing-Service en utilisant Open Feign
 
